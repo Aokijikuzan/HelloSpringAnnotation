@@ -1,0 +1,6 @@
+https://o7planning.org/fr/10127/le-tutoriel-de-spring-pour-des-debutants
+
+https://www.bart-konieczny.com/fr/spring-par-pratique/concepts-base/beans
+
+
+https://rpouiller.developpez.com/tutoriels/spring/application-web-spring-hibernate/
