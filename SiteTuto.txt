@@ -4,3 +4,5 @@ https://www.bart-konieczny.com/fr/spring-par-pratique/concepts-base/beans
 
 
 https://rpouiller.developpez.com/tutoriels/spring/application-web-spring-hibernate/
+
+https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/
