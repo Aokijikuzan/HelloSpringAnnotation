@@ -9,10 +9,8 @@ public class MyComponent {
 	@Autowired
 	private Myrepository repository;
 	
-	public void AppInfo()
-	{
-		System.out.println("Now is"+ repository.getSystemDateTime());
-		System.out.println("App Name"+repository.getAppName());
-		
-	}
+	 public void showAppInfo() {
+	        System.out.println("Now is: "+ repository.getSystemDateTime());
+	        System.out.println("App Name: "+ repository.getAppName());
+	    }
 }

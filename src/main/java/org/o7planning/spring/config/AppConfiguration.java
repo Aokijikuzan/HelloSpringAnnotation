@@ -7,7 +7,7 @@ import org.o7planning.spring.lang.Language;
 import org.o7planning.spring.lang.impl.Vietnamese;
 
 @Configuration
-@ComponentScan({"org.o7.spring.bean"})
+@ComponentScan({"org.o7planning.spring.bean"})
 public class AppConfiguration {
 
 	@Bean(name="language")

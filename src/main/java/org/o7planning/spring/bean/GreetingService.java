@@ -8,12 +8,14 @@ import org.springframework.stereotype.Service;
 public class GreetingService {
 
 	@Autowired
-	 private Language language;
-	 
-	 public GreetingService() {}
-	 public void sayService()
-	 {
-		 String greeting=language.getGreeting();
-		 System.out.println("Greeting"+ greeting);
-	 }
+	private Language language;
+
+	public GreetingService() {
+		
+	}
+
+	public void sayGreeting() {
+		String greeting = language.getGreeting();
+		System.out.println("Greeting" + greeting);
+	}
 }
