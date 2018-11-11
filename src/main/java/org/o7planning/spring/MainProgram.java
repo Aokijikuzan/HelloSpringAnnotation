@@ -25,10 +25,10 @@ public class MainProgram {
 
 		service.sayGreeting();
 		System.out.println("------------------");
-		
-		MyComponent myComponent =(MyComponent)context.getBean("myComponent");
-		  myComponent.showAppInfo();
-		  
+
+		MyComponent myComponent = (MyComponent) context.getBean("myComponent");
+		myComponent.showAppInfo();
+
 	}
 
 }
