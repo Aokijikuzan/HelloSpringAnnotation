@@ -28,7 +28,7 @@ public class MainProgram {
 		
 		MyComponent myComponent =(MyComponent)context.getBean("myComponent");
 		  myComponent.showAppInfo();
-		  /* */
+		  
 	}
 
 }
